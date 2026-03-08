@@ -1,8 +1,6 @@
 # AI-Research-Assistant
 AI-powered research assistant that searches, summarizes, and generates reports using local LLMs with Ollama.
 
-# AI Research Assistant
-
 An AI-powered research assistant that automatically searches, summarizes, and generates research reports from multiple articles using a local Large Language Model.
 
 ---
